@@ -1,6 +1,6 @@
 .citySearchForm {
   text-align: center;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 input[type="submit"] {
@@ -11,6 +11,5 @@ input[type="submit"] {
 .gpsSearchForm {
   background: #f6a9ce;
   border-radius: 4px;
-  text-align: center;
   margin: 5px;
 }
