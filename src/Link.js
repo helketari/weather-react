@@ -6,7 +6,7 @@ export default function Link() {
   return (
     <div className="GitHubLink">
       <a
-        href="https://github.com/helketari/vanilla-weather-app"
+        href="https://github.com/helketari/weather-react"
         target="_blank"
         rel="noreferrer"
       >
