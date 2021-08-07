@@ -1,0 +1,12 @@
+a {
+  color: #f6a9ce;
+}
+
+a:hover {
+  color: #7beaf3;
+}
+
+.GitHubLink {
+  color: #f6a9ce;
+  text-align: left;
+}

@@ -1,0 +1,25 @@
+li {
+  list-style: none;
+  text-align: left;
+}
+
+.currentTemp,
+.currentSpecs {
+  font-size: 20px;
+}
+
+.currentTemp strong {
+  font-size: 36px;
+}
+
+.currentDescription {
+  margin-left: 50px;
+  text-transform: capitalize;
+}
+
+.currentTemp .unit {
+  font-size: 16px;
+  font-weight: bold;
+  position: relative;
+  top: -13px;
+}
