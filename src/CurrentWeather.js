@@ -9,10 +9,10 @@ export default function CurrentWeather() {
         <div className="col-6">
           <ul className="currentTemp">
             <li>
-              <span role="img" aria-label="partlyCloudy">
-                ⛅️
+              <span role="img" aria-label="Cloudy">
+                ☁️
               </span>
-              <strong id="temperature">75</strong>
+              <strong id="temperature">66</strong>
               <span className="unit">˚F</span>
             </li>
             <li id="currentDescription">Cloudy</li>
@@ -21,16 +21,16 @@ export default function CurrentWeather() {
         <div className="col-6">
           <ul className="currentSpecs">
             <li>
-              High: <span className="currentHigh">88</span>˚
+              High: <span className="currentHigh">72</span>˚
             </li>
             <li>
-              Low: <span className="currentLow">67</span>˚
+              Low: <span className="currentLow">57</span>˚
             </li>
             <li>
-              Humidity: <span className="currentHumidity">60</span>%
+              Humidity: <span className="currentHumidity">73</span>%
             </li>
             <li>
-              Wind speed: <span className="currentWind">6</span> mph
+              Wind speed: <span className="currentWind">10</span> mph
             </li>
           </ul>
         </div>
